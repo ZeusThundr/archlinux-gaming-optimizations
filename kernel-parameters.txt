@@ -1,0 +1,1 @@
+rhgb quiet mitigations=off fsck.mode=skip loglevel=0 nowatchdog libahci.ignore_sss=1 radeon.dpm=0 radeon.audio=0 amdgpu.runpm=0 amdgpu.ppfeaturemask=0xffffffff

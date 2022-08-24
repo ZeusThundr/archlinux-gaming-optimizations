@@ -12,3 +12,5 @@ some of these optimizations are specific to arch based distros do you own resear
 **More Kernel Parameters:** https://christitus.com/speedup-linux/
 
 **Overclock amdgpu:** https://github.com/sibradzic/amdgpu-clocks
+
+**Chaotic AUR:** https://aur.chaotic.cx/
